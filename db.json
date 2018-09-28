@@ -1,41 +1,43 @@
-"books": [
-    {
-    	"id": 1,
-    	"author": "Robert Martin",
-    	"bookUrl": "http://amzn.to/1DJybxH",
-    	"displayDate": "August 11, 2008",
-    	"imageUrl": "https://www.dropbox.com/s/01qu79mbl7533uo/clean-code-book.png?dl=0",
-    	"numberOfPages": "464",
-    	"title": "Clean Code"
-    },
+{
+	"books": [
+	    {
+	    	"id": 1,
+	    	"author": "Robert Martin",
+	    	"bookUrl": "http://amzn.to/1DJybxH",
+	    	"displayDate": "August 11, 2008",
+	    	"imageUrl": "https://www.dropbox.com/s/01qu79mbl7533uo/clean-code-book.png?dl=0",
+	    	"numberOfPages": "464",
+	    	"title": "Clean Code"
+	    },
 
-    {
-    	"id": 2,
-    	"author": "Joshua Bloch",
-    	"bookUrl": "http://amzn.to/1Ku8Xel",
-    	"displayDate": "May 28, 2008",
-    	"imageUrl": "https://www.dropbox.com/s/dqixbploksd7n13/effective-java-cover.jpg?dl=0",
-    	"numberOfPages": "346",
-    	"title": "Effective Java"
-    },
+	    {
+	    	"id": 2,
+	    	"author": "Joshua Bloch",
+	    	"bookUrl": "http://amzn.to/1Ku8Xel",
+	    	"displayDate": "May 28, 2008",
+	    	"imageUrl": "https://www.dropbox.com/s/dqixbploksd7n13/effective-java-cover.jpg?dl=0",
+	    	"numberOfPages": "346",
+	    	"title": "Effective Java"
+	    },
 
-    {
-    	"id": 3,
-    	"author": "Edmond Lau",
-    	"bookUrl": "http://a.co/d/78npTyZ",
-    	"displayDate": "March 19, 2015",
-    	"imageUrl": "https://www.dropbox.com/s/6lgwjnrh0zggqpn/effective%20engineer.jpg?dl=0",
-    	"numberOfPages": "346",
-    	"title": "Effective Engineer"
-    },
+	    {
+	    	"id": 3,
+	    	"author": "Edmond Lau",
+	    	"bookUrl": "http://a.co/d/78npTyZ",
+	    	"displayDate": "March 19, 2015",
+	    	"imageUrl": "https://www.dropbox.com/s/6lgwjnrh0zggqpn/effective%20engineer.jpg?dl=0",
+	    	"numberOfPages": "346",
+	    	"title": "Effective Engineer"
+	    },
 
-    {
-    	"id": 4,
-    	"author": "David Thomas",
-    	"bookUrl": "http://a.co/d/g250rCC",
-    	"displayDate": "October 1999",
-    	"imageUrl": "https://www.dropbox.com/s/j6470pgdo6afbm9/pragmatic-programmer.jpg?dl=0",
-    	"numberOfPages": "320",
-    	"title": "The Pragmatic Programmer"
-    }
-]
+	    {
+	    	"id": 4,
+	    	"author": "David Thomas",
+	    	"bookUrl": "http://a.co/d/g250rCC",
+	    	"displayDate": "October 1999",
+	    	"imageUrl": "https://www.dropbox.com/s/j6470pgdo6afbm9/pragmatic-programmer.jpg?dl=0",
+	    	"numberOfPages": "320",
+	    	"title": "The Pragmatic Programmer"
+	    }
+	]
+}
