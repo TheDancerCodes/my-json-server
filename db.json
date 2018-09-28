@@ -1,4 +1,4 @@
-
+[
     {
     	"id": 1,
     	"author": "Robert Martin",
@@ -38,3 +38,4 @@
     	"numberOfPages": "320",
     	"title": "The Pragmatic Programmer"
     }
+]
