@@ -15,7 +15,7 @@
 	    	"author": "Joshua Bloch",
 	    	"bookUrl": "http://amzn.to/1Ku8Xel",
 	    	"displayDate": "May 28, 2008",
-	    	"imageUrl": "https://www.dropbox.com/s/dqixbploksd7n13/effective-java-cover.jpg?dl=0",
+	    	"imageUrl": "https://res.cloudinary.com/thedancercodes/image/upload/v1538628801/retrofiti-v2/effective-java-cover.jpg",
 	    	"numberOfPages": "346",
 	    	"title": "Effective Java"
 	    },
@@ -25,7 +25,7 @@
 	    	"author": "Edmond Lau",
 	    	"bookUrl": "http://a.co/d/78npTyZ",
 	    	"displayDate": "March 19, 2015",
-	    	"imageUrl": "https://www.dropbox.com/s/6lgwjnrh0zggqpn/effective%20engineer.jpg?dl=0",
+	    	"imageUrl": "https://res.cloudinary.com/thedancercodes/image/upload/v1538628801/retrofiti-v2/effective_engineer.png",
 	    	"numberOfPages": "346",
 	    	"title": "Effective Engineer"
 	    },
@@ -35,7 +35,7 @@
 	    	"author": "David Thomas",
 	    	"bookUrl": "http://a.co/d/g250rCC",
 	    	"displayDate": "October 1999",
-	    	"imageUrl": "https://www.dropbox.com/s/j6470pgdo6afbm9/pragmatic-programmer.jpg?dl=0",
+	    	"imageUrl": "https://res.cloudinary.com/thedancercodes/image/upload/v1538628803/retrofiti-v2/pragmatic-programmer.jpg",
 	    	"numberOfPages": "320",
 	    	"title": "The Pragmatic Programmer"
 	    },
