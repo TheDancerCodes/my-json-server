@@ -38,6 +38,35 @@
 	    	"imageUrl": "https://www.dropbox.com/s/j6470pgdo6afbm9/pragmatic-programmer.jpg?dl=0",
 	    	"numberOfPages": "320",
 	    	"title": "The Pragmatic Programmer"
-	    }
+	    },
+
+		{
+			"id": 5,
+			"author" : "Michael Feathers",
+			"bookUrl" : "http://amzn.to/1Jqe1PA",
+			"displayDate" : "October 2, 2004",
+			"imageUrl" : "http://adavis.github.io/adept-android/images/legacy_code.jpg",
+			"numberOfPages" : 456,
+		    "title" : "Working Effectively with Legacy Code"
+	  	},
+
+	  	{
+	  		"id": 6,
+	  		"author" : "Martin Fowler",
+	  		"bookUrl" : "http://amzn.to/1Lx4cjR",
+	  		"displayDate" : "July 8, 1999",
+	  		"imageUrl" : "http://adavis.github.io/adept-android/images/refactoring.jpg",
+	  		"numberOfPages" : 464,
+		    "title" : "Refactoring: Improving the Design of Existing Code"
+	    },
+
+		{
+		    "id": 7,
+		    "author" : "Kent Beck",
+		    "displayDate" : "November 18, 2002",
+		    "imageUrl" : "http://adavis.github.io/adept-android/images/tdd.jpg",
+		    "numberOfPages" : 240,
+		    "title" : "Test Driven Development: By Example"
+		}
 	]
 }
